@@ -2,7 +2,7 @@
 # Projet: Turlututu
 
 ## Contenu
-Ce repo contient la page web du projet "Turlututu".
+Ce repo contient les éléments de la page web "Turlututu".
 
 Il est constitué d':
 * Un index.html
